@@ -19,6 +19,7 @@ class BlogsController < ApplicationController
   end
 
   def edit
+    
   end
 
   private
